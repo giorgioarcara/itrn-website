@@ -1,0 +1,128 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "**/*.qmd"
+  resources:
+    - CNAME
+
+website:
+  title: "ITRN"
+  description: "The Italian Reproducibility Network (ITRN) is a peer-led consortium that promotes robust, transparent and reproducible research in Italy."
+  site-url: https://www.itrn.org
+  favicon: images/favicon.png
+  # Uncomment once the GitHub repository exists to get "Edit this page" / "Report an issue" links
+  # repo-url: https://github.com/<OWNER>/itrn-website
+  # repo-actions: [edit, issue]
+  search:
+    location: navbar
+    type: overlay
+  open-graph: true
+  twitter-card: true
+  page-navigation: true
+  back-to-top-navigation: true
+  bread-crumbs: true
+
+  navbar:
+    logo: images/logo.png
+    logo-alt: "Italian Reproducibility Network logo"
+    title: false
+    left:
+      - href: index.qmd
+        text: Home
+      - href: news/index.qmd
+        text: News
+      - text: Community
+        menu:
+          - href: community/index.qmd
+            text: Overview
+          - text: "---"
+          - href: community/steering.qmd
+            text: Steering Committee
+          - href: community/itrn-nodes.qmd
+            text: ITRN nodes
+          - href: community/itrn-mailing-list.qmd
+            text: Mailing list
+          - href: community/newsletter.qmd
+            text: Newsletter
+      - text: Initiatives
+        menu:
+          - href: itrn-scientific-events/index.qmd
+            text: Overview
+          - text: "---"
+          - href: itrn-scientific-events/itrn-annual-meeting/index.qmd
+            text: Annual meeting
+          - href: itrn-scientific-events/itrn-annual-meeting/past-annual-meetings.qmd
+            text: Past annual meetings
+          - text: "---"
+          - href: itrn-scientific-events/collaborative-projects.qmd
+            text: Collaborative projects
+          - href: itrn-scientific-events/onlineseminars.qmd
+            text: Online seminars
+          - href: itrn-scientific-events/onsiteseminars.qmd
+            text: Onsite seminars
+          - href: itrn-scientific-events/reprocoffee.qmd
+            text: ReproCoffee
+          - href: itrn-scientific-events/reproducibility-awards-list.qmd
+            text: Reproducibility Awards
+          - href: itrn-scientific-events/teaching.qmd
+            text: Teaching
+      - text: Resources
+        menu:
+          - href: resources/index.qmd
+            text: Overview
+          - text: "---"
+          - href: resources/expert-list.qmd
+            text: Expert list
+          - href: resources/presentations.qmd
+            text: Presentations
+          - href: resources/governance-documents.qmd
+            text: Governance documents
+      - href: contacts.qmd
+        text: Contacts
+    right:
+      - href: join-itrn.qmd
+        text: Join ITRN
+      - icon: linkedin
+        href: https://www.linkedin.com/company/italian-reproducibility-network/
+        aria-label: ITRN on LinkedIn
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=61588036597299
+        aria-label: ITRN on Facebook
+      - icon: rss
+        href: news/index.xml
+        aria-label: ITRN news feed (RSS)
+
+  page-footer:
+    left: |
+      © 2026 Italian Reproducibility Network (ITRN) · [contact@itrn.org](mailto:contact@itrn.org)
+    center: |
+      [Join ITRN](/join-itrn.qmd) · [Mailing list](/community/itrn-mailing-list.qmd) · [Governance](/resources/governance-documents.qmd)
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/company/italian-reproducibility-network/
+        aria-label: LinkedIn
+      - icon: facebook
+        href: https://www.facebook.com/profile.php?id=61588036597299
+        aria-label: Facebook
+      - icon: envelope
+        href: mailto:contact@itrn.org
+        aria-label: Email
+      - icon: rss
+        href: /news/index.xml
+        aria-label: RSS
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/itrn.scss]
+      dark: [darkly, styles/itrn.scss, styles/itrn-dark.scss]
+    respect-user-color-scheme: true
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    smooth-scroll: true
+    link-external-icon: false
+    link-external-newwindow: true
+    anchor-sections: true
+    lang: en

@@ -1,0 +1,87 @@
+---
+title: "Presentations"
+---
+
+## Featured presentations
+
+Useful links to previous seminars or events.
+
+::: {.entry}
+[ENG]{.badge-lang} **Think Open Rovereto Symposium 2021-02 – Power analysis for Neuroimaging**\
+[CIMeC UNITN, 18th November 2021 · Speakers: Beyer F., Ellis C.]{.entry-meta}\
+[[<i class="bi bi-youtube" aria-hidden="true"></i> Video](https://www.youtube.com/watch?v=Gl7i3awmfls)]{.entry-links}
+:::
+
+::: {.entry}
+[IT]{.badge-lang} **ITRN Kickoff Event – October 14, 2021**\
+[First public event organized by ITRN – Presentation of the network (slides in English)]{.entry-meta}\
+[[<i class="bi bi-youtube" aria-hidden="true"></i> Video](https://www.youtube.com/watch?v=yZBwlxzAsjw) [<i class="bi bi-file-earmark-slides" aria-hidden="true"></i> Slides](https://drive.google.com/file/d/1HmIhikpiTODHxOccybv3fnMfYUhxjeLw/view?usp=sharing)]{.entry-links}
+:::
+
+::: {.entry}
+[ENG]{.badge-lang} **ITRN Kickoff Event – October 14, 2021: "Open and reproducible science in neuroimaging: It takes an ecosystem"**\
+[Speaker: Russell Poldrack]{.entry-meta}\
+[[<i class="bi bi-youtube" aria-hidden="true"></i> Video](https://www.youtube.com/watch?v=LXuFCw_E2xk)]{.entry-links}
+:::
+
+::: {.entry}
+[IT]{.badge-lang} **Symposium XXIX Congresso Nazionale SIPF Palermo – October 2, 2021: Towards an open and reproducible science: Italian Reproducibility Network**\
+[Speakers: Bortoletto M, Calignano G, Crepaldi D, Iacovella V.]{.entry-meta}\
+[[<i class="bi bi-folder2-open" aria-hidden="true"></i> Materials](https://drive.google.com/drive/folders/1xHavk3QdNf1Xb6vGax27eLtKbV_Hsr3c?usp=drive_link)]{.entry-links}
+:::
+
+::: {.entry}
+[IT]{.badge-lang} **Think Open Rovereto Symposium 2021-01 – La scienza aperta nelle applicazioni cliniche**\
+[CIMeC UNITN, 17th June 2021 · Speakers: Borghesani V, Porteri C, Bertò G, Lettieri G.]{.entry-meta}\
+[[<i class="bi bi-youtube" aria-hidden="true"></i> Video](https://www.youtube.com/watch?v=eymWnDPSnqw) [<i class="bi bi-folder2-open" aria-hidden="true"></i> Materials](https://drive.google.com/drive/folders/1laeh0egR455jSJsskCsne3T0YpOdcw2U)]{.entry-links}
+:::
+
+::: {.entry}
+[ENG]{.badge-lang} **Think Open Rovereto Workshop 2020**\
+[A virtual workshop on Open Science for Cognitive Neuroscience organized by Think Open @ CIMeC · Speakers: Grassi M, Munafò M, Maumet C, Heunis S, Naim K., Botvinik-Nezer R, Bonaretti S, Iacovella V, Niso G, Pestilli F, Thompson WH, Esteban O.]{.entry-meta}\
+[[<i class="bi bi-collection-play" aria-hidden="true"></i> Playlist](https://www.youtube.com/playlist?list=PLiX54geLkpPL4brRcYfnekp42PLJi5eEe)]{.entry-links}
+:::
+
+::: {.entry}
+[ENG]{.badge-lang} **Open Science Seminars Think Open @ CIMeC**\
+[Open Science Seminars CIMeC UniTN, from 2018 · Speakers: Iacovella V; Crepaldi D; Panizza F; Caffini M; Grassi M; Giglia E.]{.entry-meta}\
+[[<i class="bi bi-collection-play" aria-hidden="true"></i> Playlist](https://www.youtube.com/playlist?list=PLiX54geLkpPJOtuvyOQ_K4qO_s5MnC42h)]{.entry-links}
+:::
+
+::: {.entry}
+[IT]{.badge-lang} **Giornata di ricerca: Open science, riproducibilità e ricerca in psicologia**\
+[Milano-Bicocca, 8th June 2018 · Speakers: Grassi M, Agnoli F, Gallucci M, Paulesu E, Mammarella IC, Cutini S, Crepaldi D, Cubelli R, Perugini M.]{.entry-meta}\
+[[<i class="bi bi-collection-play" aria-hidden="true"></i> Playlist](https://www.youtube.com/playlist?list=PL-bSaEYPzhpkRleiKtqtEs8jJwndmfWbn)]{.entry-links}
+:::
+
+## External resources
+
+Links to other sites on open research.
+
+::: {.card-grid style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));"}
+::: {.nav-card}
+![](../images/logos/forrt.png){fig-alt="FORRT logo" width="56px"}
+
+### [Open Science Glossary](https://forrt.org/glossary/)
+
+[ENG]{.badge-lang} A glossary of terms relating to open scholarship, from FORRT – Framework for Open and Reproducible Research Training.
+
+Associated paper: Parsons, S., Azevedo, F., Elsherif, M. M., Guay, S., Shahim, O. N., Govaart, G. H., … & Aczel, B. (2022). A Community-Sourced Glossary of Open Scholarship Terms. *Nature Human Behaviour, 6*(3), 312–318. <https://doi.org/10.1038/s41562-021-01269-4> ([open access link](https://www.nature.com/articles/s41562-021-01269-4.epdf?sharing_token=W_TZGO-OJViBl9hEyMTu6dRgN0jAjWel9jnR3ZoTv0OFck_K78fP6Dn2WloQwBbMnV4T-eihKTPp8slIWvh1iaWhxvWntEdAfj0kShWNALehqzYXxWj801ojWn3ADdBewA-lDGsxSzJwN4DZpYZQ13hXKV42ADJSmckFDjzKxtI%3D))
+:::
+
+::: {.nav-card}
+![](../images/logos/dern.png){fig-alt="German Reproducibility Network logo" width="56px"}
+
+### [Resource library](https://reproducibilitynetwork.de/resources/){.stretched-link}
+
+[ENG]{.badge-lang} Open research resources from DERN, the German Reproducibility Network.
+:::
+
+::: {.nav-card}
+![](../images/logos/ukrn.png){fig-alt="UK Reproducibility Network logo" width="56px"}
+
+### [Primers](https://www.ukrn.org/primers/){.stretched-link}
+
+[ENG]{.badge-lang} Resources on important topics in open and reproducible research, from UKRN.
+:::
+:::

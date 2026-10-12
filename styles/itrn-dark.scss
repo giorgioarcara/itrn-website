@@ -1,0 +1,29 @@
+/*-- scss:defaults --*/
+
+// Lighter brand tints for readable contrast on dark backgrounds
+$itrn-navy: #9fb0ff;
+$itrn-magenta: #ff5cad;
+$primary: #9fb0ff;
+$secondary: #b5bccc;
+$link-color: #9fb0ff;
+$navbar-bg: #1b1f2a;
+$navbar-fg: #e6e9f2;
+$footer-bg: #1b1f2a;
+
+/*-- scss:rules --*/
+
+// The logo has navy lettering: give it a light plate in dark mode
+.navbar-brand img,
+.navbar-logo {
+  background: #ffffff;
+  border-radius: 6px;
+  padding: 2px 6px;
+}
+.navbar .nav-link[href$="join-itrn.html"] { color: #111 !important; }
+.hero {
+  background: linear-gradient(135deg, #1b1f2a 0%, #20263a 60%, #2b1f2b 100%);
+  .hero-tagline { color: #d4d8e4; }
+  .hero-logo img, img { background: #fff; border-radius: 12px; padding: 0.75rem; }
+}
+.nav-card { border-color: rgba(255, 255, 255, 0.12); }
+.person img { border-color: #222; }

@@ -1,0 +1,15 @@
+---
+title: "Newsletter"
+subtitle: "Issues of the ITRN newsletter, newest first"
+toc: false
+---
+
+::: {.entry}
+[<i class="bi bi-file-earmark-text" aria-hidden="true"></i> **January 2026**](https://drive.google.com/file/d/120K8MKmamt_6hDiiX5VlpQO0f1dZCroS/view?usp=drive_link)
+:::
+
+::: {.entry}
+[<i class="bi bi-file-earmark-text" aria-hidden="true"></i> **December 2025**](https://drive.google.com/file/d/101LdV0aY0hKpv_YhjK5YnNLWW0E0jphN/view?usp=drive_link)
+:::
+
+To receive news as soon as they are published, subscribe to the [ITRN mailing list](itrn-mailing-list.qmd) or to the [news RSS feed](../news/index.xml).

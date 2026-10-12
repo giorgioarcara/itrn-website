@@ -1,0 +1,31 @@
+---
+title: "Resources"
+subtitle: "Experts, recorded talks, external materials and the official documents of ITRN"
+toc: false
+---
+
+::: {.card-grid}
+::: {.nav-card}
+<i class="bi bi-person-video3" aria-hidden="true"></i>
+
+### [Expert list](expert-list.qmd){.stretched-link}
+
+ITRN members available to deliver workshops, seminars and training on reproducibility and open science.
+:::
+
+::: {.nav-card}
+<i class="bi bi-play-btn-fill" aria-hidden="true"></i>
+
+### [Presentations](presentations.qmd){.stretched-link}
+
+Recordings and slides of past seminars and events, plus useful external resources.
+:::
+
+::: {.nav-card}
+<i class="bi bi-file-earmark-text-fill" aria-hidden="true"></i>
+
+### [Governance documents](governance-documents.qmd){.stretched-link}
+
+Statute, strategic plan, gender equality plan, terms of reference and code of conduct.
+:::
+:::

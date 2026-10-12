@@ -1,0 +1,71 @@
+---
+title: "Initiatives"
+subtitle: "Meetings, seminars, journal clubs, awards and teaching activities promoted by ITRN"
+toc: false
+---
+
+::: {.card-grid}
+::: {.nav-card}
+<i class="bi bi-calendar-event-fill" aria-hidden="true"></i>
+
+### [Annual meeting](itrn-annual-meeting/index.qmd){.stretched-link}
+
+The ITRN National Meeting: the next edition is in Turin, 15–16 February 2027.
+:::
+
+::: {.nav-card}
+<i class="bi bi-archive-fill" aria-hidden="true"></i>
+
+### [Past annual meetings](itrn-annual-meeting/past-annual-meetings.qmd){.stretched-link}
+
+Programmes of every ITRN meeting since the 2021 Kickoff Event.
+:::
+
+::: {.nav-card}
+<i class="bi bi-people" aria-hidden="true"></i>
+
+### [Collaborative projects](collaborative-projects.qmd){.stretched-link}
+
+Multi-lab and multicentric projects promoted by ITRN members.
+:::
+
+::: {.nav-card}
+<i class="bi bi-camera-video-fill" aria-hidden="true"></i>
+
+### [Online seminars](onlineseminars.qmd){.stretched-link}
+
+Online Seminars on Open Science, with recordings of all past editions.
+:::
+
+::: {.nav-card}
+<i class="bi bi-geo-alt-fill" aria-hidden="true"></i>
+
+### [Onsite seminars](onsiteseminars.qmd){.stretched-link}
+
+Seminars organised together with the local ITRN nodes.
+:::
+
+::: {.nav-card}
+<i class="bi bi-cup-hot-fill" aria-hidden="true"></i>
+
+### [ReproCoffee](reprocoffee.qmd){.stretched-link}
+
+A monthly online journal club on reproducibility and open science.
+:::
+
+::: {.nav-card}
+<i class="bi bi-award-fill" aria-hidden="true"></i>
+
+### [Reproducibility Awards](reproducibility-awards-list.qmd){.stretched-link}
+
+The ITRN Reproducibility Award: call, rules and past winners.
+:::
+
+::: {.nav-card}
+<i class="bi bi-mortarboard-fill" aria-hidden="true"></i>
+
+### [Teaching](teaching.qmd){.stretched-link}
+
+Educational materials, courses and experts in reproducibility and open science.
+:::
+:::

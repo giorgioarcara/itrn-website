@@ -1,0 +1,27 @@
+---
+title: "ITRN Mailing List"
+subtitle: "ITRN Mailing List delivers cutting-edge insights directly to your inbox"
+---
+
+We're thrilled to welcome you to the **[ITRN Mailing List]** community! As a researcher passionate about open science, you might become part of a group of like-minded individuals who are dedicated to advancing the field and sharing their knowledge.
+
+[<i class="bi bi-envelope-plus" aria-hidden="true"></i> Subscribe on Google Groups](https://groups.google.com/g/italian-reproducibility-network){.btn .btn-primary}
+
+Below, we want to give you a quick rundown of how you can make the most of it and start receiving valuable insights and updates.
+
+## How it works
+
+Note that all messages on this list will have the prefix **[ITRN Mailing List]**.
+
+The goal of the ITRN Mailing List is to allow all members of the list to send **directly** general communications, conference announcements, job announcements, open science information and discussions that are of interest to all members of the network, by sending an email to [italian-reproducibility-network@googlegroups.com](mailto:italian-reproducibility-network@googlegroups.com).
+
+As a dedicated researcher in the field of open science, we believe that staying connected with this community can have a positive impact on your work. However, we understand that everyone's needs and interests change over time. If for any reason you need to unsubscribe from the mailing list, simply send an email to [italian-reproducibility-network+unsubscribe@googlegroups.com](mailto:italian-reproducibility-network+unsubscribe@googlegroups.com).
+
+## Tips
+
+- **Language:** English and/or Italian are welcome.
+- **Moderation:** the list is moderated, so emails with inappropriate content will not be forwarded. Please stick to the open science topic. Generic scientific discussions are welcome, as long as they contribute to the open science debate.
+- **Labels:** we suggest you put an explanatory label in square brackets, e.g. `[FYI]`, `[Reading]`, `[Open Position]`, `[Seminar]` etc. We also ask you to insert the relevant information in the title after the label. For example: `[Reading] pre-registration guide`.
+- **Relevance:** keep in mind that many people will read this mailing list through their email: nobody wants irrelevant information in their inboxes.
+
+Wishing you to stay tuned on ITRN's 'waves'!

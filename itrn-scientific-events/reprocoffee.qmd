@@ -1,0 +1,81 @@
+---
+title: "ReproCoffee"
+subtitle: "A journal club on all things reproducibility and open science"
+---
+
+ReproCoffee is a journal club series where we illustrate and discuss papers about all things reproducibility and open science – from methodology and statistics, to the way academia sets up good (and bad) incentives. Paper presentations last 10 to 15 minutes, followed by an informal discussion.
+
+The initiative is run by Claudia Mazzuca, Beatrice Valentini, Chiara Fini and Davide Crepaldi.
+
+We meet monthly, online, so you're welcome from any corner of the world you currently sit on. To take part, you just need to complete [this form](https://forms.gle/vkSYc6XXtZmrZFH47), and you'll receive an email with a reminder and a link to take part in the event a few days before it happens.
+
+You can reach us collectively at [reprocoffee@itrn.org](mailto:reprocoffee@itrn.org); one of us will always be there for you. Ah, and we also [tweet](https://twitter.com/ReproCoffee), so that's also a nice way to stay in touch.
+
+[<i class="bi bi-pencil-square" aria-hidden="true"></i> Register for ReproCoffee](https://forms.gle/vkSYc6XXtZmrZFH47){.btn .btn-primary}
+
+## Next
+
+*The next session will be announced soon.*
+
+## Past sessions
+
+::: {.entry}
+[15 May 2024]{.entry-meta}\
+Schmidt, S. (2009). Shall we really do it again? The powerful concept of replication is neglected in the social sciences. *Review of General Psychology, 13*(2), 90–100. <https://doi.org/10.1037/a0015108>\
+Hedges, L. V., & Schauer, J. M. (2019). Statistical analyses for studying replication: Meta-analytic perspectives. *Psychological Methods, 24*(5), 557–570. <https://doi.org/10.1037/met0000189>
+:::
+
+::: {.entry}
+[28 November 2023]{.entry-meta}\
+*Better Accuracy for Better Science ... Through Random Conclusions*, by Davis-Stober et al., 2023.
+:::
+
+::: {.entry}
+[24 October 2023]{.entry-meta}\
+*Reproducible brain-wide association studies require thousands of individuals*, by Marek et al., 2022.
+:::
+
+::: {.entry}
+[27 June 2023]{.entry-meta}\
+[*Single case studies are a powerful tool for developing, testing and extending theories*](https://www.nature.com/articles/s44159-022-00127-y), by Nickels, L., Fischer-Baum, S. & Best, W., 2022.
+:::
+
+::: {.entry}
+[28 March 2023]{.entry-meta}\
+*Increasing Transparency Through a Multiverse Analysis*, by Steegen et al., 2016 & *Ethics and Statistics: Honesty and Transparency are not Enough*, by Gelman, 2017.
+:::
+
+::: {.entry}
+[28 February 2023]{.entry-meta}\
+*Five Selfish Reasons to Work Reproducibly*, by Markowetz, 2015.
+:::
+
+::: {.entry}
+[31 January 2023]{.entry-meta}\
+*Measurement Schmeasurement*, by Flake & Fried, 2020.
+:::
+
+::: {.entry}
+[14 December 2022]{.entry-meta}\
+[*The Creativity-Verification Cycle in Psychological Science: New Methods to Combat Old Idols*](https://journals.sagepub.com/doi/full/10.1177/1745691618771357), by Eric-Jan Wagenmakers et al., 2018.
+:::
+
+::: {.entry}
+[23 November 2022]{.entry-meta}\
+[*Is Preregistration Worthwhile?*](https://www.sciencedirect.com/science/article/abs/pii/S1364661319302852), by Aba Szollosi et al., 2020.
+:::
+
+::: {.entry}
+[12 October 2022]{.entry-meta}\
+[*Communicating What We Know and What Isn't So: Science Communication in Psychology*](https://journals.sagepub.com/doi/full/10.1177/1745691620964062), by Lewis & Wai, 2021.
+:::
+
+::: {.entry}
+[1 September 2022]{.entry-meta}\
+[*Aspiring to greater intellectual humility in science*](https://www.nature.com/articles/s41562-021-01203-8), by Hoekstra & Vazire, 2022.
+:::
+
+::: {.entry}
+[15 June 2022 · Kick-off day!]{.entry-meta}\
+[*A manifesto for reproducible science*](https://www.nature.com/articles/s41562-016-0021), by Munafò et al., 2017.
+:::

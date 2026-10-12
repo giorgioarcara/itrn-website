@@ -1,0 +1,55 @@
+---
+title: "ITRN nodes and members"
+---
+
+## Network nodes and members
+
+*Up to August 2023.* The node contact person is shown in its own column.
+
+| Institution | Node contact | Members |
+|:------------|:-------------|:--------|
+| CNR Istituto di Scienza e Tecnologie dell'Informazione | Dario Mangione | |
+| Freie Universität Berlin – Germany | | Laura Anna Ciaccio |
+| IRCCS San Camillo – Venezia | Maria Montefinese | |
+| IRCCS San Giovanni di Dio Fatebenefratelli – Brescia | Marta Bortoletto | |
+| IRCCS Eugenio Medea – Pavia | Alessandro Crippa | |
+| IRCCS Istituto delle Scienze Neurologiche di Bologna | Ben Ridley | |
+| IUSS Pavia | | Cristiano Chesi |
+| LUMSA sede di Palermo | | Lidia Scifo |
+| Meyer Azienda Ospedaliero Universitaria – Firenze | Tiziana Metitieri | |
+| Monell Chemical Senses Center – USA | | Valentina Parma |
+| Fondazione Bruno Kessler – FBK Trento | | Gabriele Amorosino |
+| Scuola Normale Superiore Pisa | | Leonardo Lupori |
+| Università Cattolica del Sacro Cuore di Milano | Margherita Lanz | Angela Sorgente |
+| Université de Genève – Switzerland / Università di Torino | | Beatrice Valentini |
+| Università dell'Insubria | | Nicoletta Guatelli |
+| Università del Salento | Ezia Rizzi | |
+| Università di Bologna | Sara Garofalo | Stefano Diciotti, Alessandro Heydari, Giulia Raffaella De Luca |
+| Università di Catanzaro | | Antonio Aquino |
+| Università di Chieti-Pescara "Gabriele d'Annunzio" | Francesca Romana Alparone | |
+| Università di Firenze | Fabio Giovannelli | |
+| Università di Foggia | Tiziana Quarto | |
+| Università di Messina | Patrice Piercarlo Rusconi | |
+| Università di Milano-Bicocca | Cristina Zogmaister | Simona Amenta, Bonaria Biancu, Federica Conte, Michela Vezzoli |
+| Università di Modena e Reggio Emilia | Francesca Pesciarelli | Sendy Caffarra |
+| Università di Padova | Michelangelo Vianello | Giulia Calignano, Margherita Calderan, Massimo Grassi, Giovanna Mioni, Roberta Sellaro, Patrizio Tressoldi, Antonino Visalli, Filippo Gambarota, Chiara Ceccon |
+| Università di Palermo | Isabella Giammusso | Sonia Ingoglia, Lidia Scifo |
+| Università di Pavia | Gian Mauro Manzoni | Alessio Toraldo, Davide Crepaldi |
+| Università di Roma "La Sapienza" | Gabriele Fusco | Antony Casula, Maria Leggio, Claudia Mazzuca, Alessandro Von Gal, Chiara Fini |
+| Università di Trento | Carlo Miniussi | Vittorio Iacovella, Stefania Pighin, Giulia Priolo, Federica Stablum |
+| Università di Udine | Davide Anchisi | |
+| Università di Urbino "Carlo Bo" | Manuela Berlingeri | Cristina Rosazza |
+| Università di Verona | Michele Scandola | Silvia Savazzi |
+| Università "Magna Graecia" di Catanzaro | Marco Tullio Liuzza | Eva Tolomeo |
+
+: {.striped .hover .table-sm}
+
+## Ambassadors
+
+- **Stefania Pighin** – Associazione Italiana per le Scienze Cognitive – [AISC](https://www.associazione-scienze-cognitive.it/)
+- **Gian Mauro Manzoni** – Psicologia Clinica e Dinamica
+
+## Institutional members
+
+- Università di Padova – [Dipartimento di Psicologia Generale](https://www.dpg.unipd.it/en/)
+- [Eurac Research – Center for Climate Change and Transformation](https://www.eurac.edu/it/institutes-centers/center-for-climate-change-and-transformation), Bolzano

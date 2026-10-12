@@ -1,0 +1,58 @@
+---
+title: "Join ITRN"
+subtitle: "How to become a member of the Italian Reproducibility Network"
+---
+
+## How to join or renew
+
+**To renew**, simply pay the fee and send an e-mail with a copy of the payment to [membership@itrn.org](mailto:membership@itrn.org).
+
+**To register for ITRN**, you need to send an email to [membership@itrn.org](mailto:membership@itrn.org) with your name, surname, and type and duration of your subscription. You can sign in as a student, a researcher, an endorser, or in representation of an institution. You can also sign in for 1 year or for 3 years at a discounted rate (see below).
+
+As an example, you can copy this template into your email:
+
+```{.text filename="Application email template"}
+I [Surname and name of applicant] would like to be a member of ITRN
+
+Requested membership:  [ ] new   [ ] renewal
+Category and duration: [select the category and the 1- or 3-year fee]
+
+Position:
+Affiliation:
+```
+
+## Membership fees
+
+We had no fees until December 2022. Since we became a Registered Association, we need to face some costs and therefore a fee was necessary. These are the fees for 2024:
+
+| Category | 1 year | 3 years |
+|:---------|-------:|--------:|
+| Institutional[^inst] | €250 | — |
+| Endorser | ≥ €100 | — |
+| Researcher / Professor / Clinician[^res] | €30 | €75 |
+| Student[^stud] | €20 | €45 |
+
+: {.striped .hover}
+
+[^inst]: Institutional membership does not automatically grant individual membership to its affiliates. However, if an individual affiliated with a member institution wishes to join as a personal member, they qualify for a reduced personal membership fee of €5 for the same calendar year.
+
+[^res]: Researcher, University Professor, PostDoc, Research assistant, Professional in the health area, Professional in the technical area, Librarian, Administrative, etc.
+
+[^stud]: Student in university courses, doctorate, specialisation, postgraduate school etc.
+
+## Payment
+
+After acceptance of the application by the ITRN Steering Committee, a confirmation email will be sent.
+
+In order to finalise your registration, you will then have to pay the membership fee, based on the information above, by bank transfer (*tramite bonifico bancario*).
+
+::: {.callout-note icon="false"}
+## Coordinates for bank transfer
+
+**Beneficiario:** Italian Reproducibility Network\
+**Causale:** Quota Associativa ITRN "Cognome e Nome" anno (indicare l'anno o anni)\
+**IBAN:** `IT73U0306909606100000192818`\
+**Sede:** Banca Intesa San Paolo – Via Mantova, 19, 38122 Trento
+:::
+
+To finalise your registration, please send a copy of your payment by email to [membership@itrn.org](mailto:membership@itrn.org).

@@ -1,0 +1,4 @@
+# Shared options for all news posts
+toc: false
+title-block-banner: false
+date-format: "D MMMM YYYY"

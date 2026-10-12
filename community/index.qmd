@@ -1,0 +1,41 @@
+---
+title: "Community"
+subtitle: "The people, local nodes and channels that make up the Italian Reproducibility Network"
+toc: false
+---
+
+ITRN acts as a community to get in touch, exchange ideas and good practices, and promote collective learning on reproducibility and open science.
+
+::: {.card-grid}
+::: {.nav-card}
+<i class="bi bi-person-badge-fill" aria-hidden="true"></i>
+
+### [Steering Committee](steering.qmd){.stretched-link}
+
+The elected members of the ITRN Steering Committee for the 2025–2026 term.
+:::
+
+::: {.nav-card}
+<i class="bi bi-diagram-3-fill" aria-hidden="true"></i>
+
+### [ITRN nodes](itrn-nodes.qmd){.stretched-link}
+
+Local nodes, members, ambassadors and institutional members across Italy and abroad.
+:::
+
+::: {.nav-card}
+<i class="bi bi-envelope-paper-fill" aria-hidden="true"></i>
+
+### [Mailing list](itrn-mailing-list.qmd){.stretched-link}
+
+Join the ITRN mailing list to share announcements, positions and open science news.
+:::
+
+::: {.nav-card}
+<i class="bi bi-newspaper" aria-hidden="true"></i>
+
+### [Newsletter](newsletter.qmd){.stretched-link}
+
+Read the latest issues of the ITRN newsletter.
+:::
+:::

@@ -1,0 +1,16 @@
+---
+title: "News"
+subtitle: "Announcements, calls and updates from the Italian Reproducibility Network"
+toc: false
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: true
+  feed: true
+  image-placeholder: ../images/logo.png
+  date-format: "D MMMM YYYY"
+  fields: [image, date, title, description, categories]
+---

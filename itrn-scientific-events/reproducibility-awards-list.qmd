@@ -1,0 +1,156 @@
+---
+title: "Reproducibility Awards"
+toc-depth: 2
+aliases:
+  - reproducibility-awards.html
+---
+
+## 2024 ITRN Reproducibility Award
+
+::: {.callout-warning appearance="simple"}
+The call for the 2024 ITRN Reproducibility Award is now **closed**.
+:::
+
+Recently, within the debate on the impact of people involved in the advancement of knowledge, it has been observed that in addition to items that are currently standard and easily framed within quantitative criteria (e.g., scholarly manuscripts with their associated metrics) there is an additional set of relevant contributions which does not completely fit within standard categories. These kinds of objects can be found in many domains of the knowledge-building process.
+
+Among scientific communications of original experimental work, for example, there are innovative manuscripts such as preregistrations and registered reports, including by the creation of open datasets and repositories of experimental materials.
+
+In addition to this, there are new types of communications related to the reproduction or replication of already "published" experiments or meta-analyses, which are critical to the robustness of scientific conclusions.
+
+Finally, there is a full range of tools for open science. These include source code for data analysis software; open source software; wikis and collaborative data-sharing platforms; audio-video contributions, such as tutorials, presentations, or demonstration videos, that facilitate the dissemination of knowledge and methodologies in an accessible and immediate way. These tools not only increase the transparency of research, but also accelerate knowledge sharing and the adoption of globally standardized practices, with a consistent impact on the work routine of those involved in research.
+
+By considering these types of contributions, there can be achieved a more comprehensive impact profiling, involving potentially relevant profiles in scientific or career advancement initiatives.
+
+In this context, ITRN awards three prizes reserved for those who have made in the last five years (2020 to 2024) contributions that are reproducible (i.e., open to the possibility of obtaining the same results from the same premises) and/or replicable (same results from different premises), or in any case adherent to the principles of open science.
+
+### Categories
+
+The three prizes refer to three distinct and independent categories:
+
+1. Original experimental work
+2. Replication / Reproduction / Meta-analysis
+3. Open Science Tools
+
+### Organizing and evaluating committee
+
+The organizing and evaluating committee is composed of the members of the ITRN Steering Committee in office as of January 2025.
+
+### Admission
+
+Those who have worked on contributions (replication study, pre-print, registered report, dataset, code, etc.) developed in the 5 years from the beginning of 2020 to the end of 2024 are eligible to participate.
+
+### Requirements
+
+The following form must be completed for each contribution by 11:59 p.m. on 31/12/2024, specifying:
+
+- Title of contribution;
+- Category;
+- DOI (or similar) of the contribution;
+- [Optional]
+  - [Experimental Work / Reproduction / Replica / Meta-Analysis] (if applicable) Link to pre-registration / registered report;
+  - [Open Science Tools] Repository link.
+- List of people involved, starting with the reference person;
+- CRediT statement related to the reference person, according to <https://credit.niso.org/>:
+  - Conceptualization (Ideas; formulation or evolution of overarching research goals and aims)
+  - Methodology (Development or design of methodology; creation of models)
+  - Software (Programming, software development; designing computer programs; implementation of the computer code and supporting algorithms; testing of existing code components)
+  - Validation (Verification, whether as a part of the activity or separate, of the overall replication/reproducibility of results/experiments and other research outputs)
+  - Formal analysis (Application of statistical, mathematical, computational, or other formal techniques to analyze or synthesize study data)
+  - Resources (Provision of study materials, reagents, materials, patients, laboratory samples, animals, instrumentation, computing resources, or other analysis tools)
+  - Data Curation (Management activities to annotate (produce metadata), scrub data and maintain research data (including software code, where it is necessary for interpreting the data itself) for initial use and later reuse)
+  - Writing – Original Draft (Preparation, creation and/or presentation of the published work, specifically writing the initial draft (including substantive translation))
+  - Writing – Review & Editing (Preparation, creation and/or presentation of the published work by those from the original research group, specifically critical review, commentary or revision – including pre- or postpublication stages)
+  - Visualization (Preparation, creation and/or presentation of the published work, specifically visualization/data presentation)
+  - Supervision (Oversight and leadership responsibility for the research activity planning and execution, including mentorship external to the core team)
+  - Project administration (Management and coordination responsibility for the research activity planning and execution)
+  - Funding acquisition (Acquisition of the financial support for the project leading to this publication)
+- Brief summary of the activity – comprehensive description of how and why the submitted contribution meets one (or more) of the evaluation criteria;
+- Project implementation period (as an indication of the implementation period, MM-YYYY);
+- Email address to be used for communications regarding the selection process;
+- Statement that all persons who collaborated on the submitted contribution have been informed of the submission for the award application.
+
+### Participation criteria
+
+The same person may submit, as author or reference author, only one contribution.
+
+Submissions from reference persons who have won previous editions of the ITRN award or an award that has had substantial ITRN collaboration (e.g., SIPF-ITRN award) are excluded.
+
+Contributions created by individuals for whom a conflict of interest may arise as a result of direct institutional relationships, through research grants or doctoral degrees, with the aforementioned members of the steering committee are likewise excluded.
+
+### Evaluation criteria
+
+**Open Practices**
+
+1. [up to 10 pts] Use of platforms for sharing research products in a FAIR way (data, code, etc.);
+2. [up to 10 pts] Use of open tools;
+3. [up to 2 pts] Use of open licenses regulating reuse of shared products.
+
+*Impact/Significance of contribution:*
+
+1. [up to 10 pts] (if applicable) Preregistered / Registered report work.
+
+**Contribution Impact and Significance**
+
+1. [up to 10 pts] Clear and quantitatively effective description of materials and/or methods (replicability);
+2. [up to 10 pts] Impact and practical and future applications;
+3. [up to 5 pts] Role of the reference person.
+
+### Notification of winning
+
+Notification of the winning contribution, for each category, will be sent to the email address indicated in the entry form by 14/01/2025 and the prize will be awarded in an in-person ceremony during the 3rd Annual Conference of ITRN to be held in Milan on February 14, 2025.
+
+The following requirement is essential in order to be eligible for the prize: the designated individuals (those submitting the prize application) must confirm their presence at the time of notification of the possible win.
+
+For each category, the reference persons of the winning contributions will have to present their work during a slot of 10′ (presentation) + 5′ (questions) at 3:00 pm on Feb. 14, 2025.
+
+### Prize
+
+The award will consist of a 3-year ITRN membership for 2025–2027 as well as a cash sum of €150.
+
+## 2023 ITRN Reproducibility Award {#winners-2023}
+
+### Winners
+
+::: {.entry}
+**Marta Bortoletto** · [IRCCS Fatebenefratelli Brescia]{.entry-meta}
+
+The ways of approaching the production of scientific contributions carried out by the Neurophysiology Lab are many, all related "by-default" to open science practices. This work has emerged for the way it combines all the most quantitative parameters of this award such as complete and clear sharing of data and code on certified repositories, the presence of the registered report and the impact from the scientific point of view of the work.
+:::
+
+::: {.entry}
+**Filippo Gambarota** · [Università di Padova]{.entry-meta}
+
+This work, a tutorial, is a deep and rigorous reflection on one of the most common and relevant reproducibility practices such as meta-analysis, studying the problem through the tool of simulation.
+:::
+
+::: {.entry}
+**Leonardo Lupori** · [Scuola Normale Superiore Pisa]{.entry-meta}
+
+In this work, the authors worked to construct an atlas of perineuronal networks in the mouse brain. The comprehensiveness of the work and the focus on publishing the methods, results and ready-to-use packages. We also considered relevant a scientific contribution that is difficult to frame in terms of impact factor but has a high practical and scientific value, like the creation of a dedicated web page to navigate through the results.
+:::
+
+### Honorable mentions
+
+::: {.entry}
+**Gabriele Amorosino** · [Neuroinformatics Lab – Fondazione Bruno Kessler, Trento]{.entry-meta}
+
+*DBB – A Distorted Brain Benchmark for Automatic Tissue Segmentation in Paediatric Patients.*
+
+A contribution that combines scientific relevance and the provision of an open-by-default environment that brings together diverse data sources while operating rigorously in attacking the complex and impactful problem of automatic and quantitative comparison of nonstandard brain images.
+:::
+
+::: {.entry}
+**Chiara Ceccon** · [Università di Padova]{.entry-meta}
+
+*Efficacy of a cultural adaptation of the Identity Project intervention among adolescents attending multiethnic classrooms in Italy: A randomized controlled trial.*
+
+A registered replication report, accompanied by a clear and well-formed sharing of data and code. The contribution virtuously combines both the philosophical and qualitative spirit of the award, as well as all the more specific and quantitative aspects, in such a sensitive area as cultural integration during adolescence.
+:::
+
+::: {.entry}
+**G. Priolo, F. Stablum, M. Vacondio** · [Aarhus University, Aarhus, Denmark; University of Trento, Trento, Italy; University of Verona, Verona, Italy; University of Klagenfurt, Klagenfurt, Austria]{.entry-meta}
+
+*The Robustness of Mental Accounting: a Global Perspective.*
+
+A replication of seven studies concerning effects associated with mental accounting. By analyzing data from more than five thousand participants from 21 countries, <!-- TODO: the original text on Google Sites is truncated here; complete the sentence. -->
+:::

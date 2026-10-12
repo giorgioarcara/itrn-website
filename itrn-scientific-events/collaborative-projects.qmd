@@ -1,0 +1,26 @@
+---
+title: "Collaborative projects"
+toc: false
+---
+
+This page provides information on collaborative projects (e.g., multi-lab/multicentric) promoted by ITRN members. For further information, please contact directly the groups proposing the project.
+
+If you are an ITRN member and would like to disseminate information about your multi-lab project, please email us at [contact@itrn.org](mailto:contact@itrn.org).
+
+::: {.card-grid style="grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));"}
+::: {.nav-card}
+### Team for TMS–EEG (T4TE)
+
+[Team for TMS–EEG](http://www.t4te.org) (T4TE) is a wide collaborative initiative aiming at improving the reproducibility of TMS–EEG research through high methodological rigor, acquisition of large datasets, scientific transparency, and data sharing.
+
+[[Project website](http://www.t4te.org) · [Related publication](https://doi.org/10.1016/j.brs.2022.12.004)]{.entry-links}
+:::
+
+::: {.nav-card}
+### NIBS-BIDS
+
+[NIBS-BIDS](https://docs.google.com/document/d/1drYd7kaNbHTcYPR3T_CRDsPcEbFSV7JbJUmhMPeWMqY/edit) is a Brain Imaging Data Structure (BIDS) extension proposal (BEP) to include non-invasive brain stimulation (NIBS) techniques in the BIDS standard. The BIDS standard provides a shared way to organize and describe complex datasets, with the final goal of supporting reproducibility in neuroscience. Most neuroscientific modalities are already supported (EEG, MRI, PET etc.) and this team is working to expand this standard to include NIBS techniques.
+
+[[BEP document](https://docs.google.com/document/d/1drYd7kaNbHTcYPR3T_CRDsPcEbFSV7JbJUmhMPeWMqY/edit) · [BEP37 on the BIDS website](https://bids.neuroimaging.io/get_involved.html#extending-the-bids-specification)]{.entry-links}
+:::
+:::

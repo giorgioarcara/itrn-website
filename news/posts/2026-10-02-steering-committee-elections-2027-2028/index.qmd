@@ -1,0 +1,67 @@
+---
+title: "ITRN Steering Committee Elections 2027–2028"
+description: "Call for candidates: submit your candidacy to elections@itrn.org by 1 November 2026. Online voting runs from 7 January to 12 February 2027."
+date: 2026-10-02
+categories: [Elections, Governance]
+toc: true
+---
+
+## Call for candidates
+
+As we approach the ITRN Annual Congress in February 2027, it is time to renew the Association's Steering Committee for the 2027–2028 term through online elections.
+
+The elections will determine the new members of the ITRN Steering Committee, who will be officially announced during the ITRN General Assembly at the 2027 ITRN Congress in Turin.
+
+All ITRN members who are in good standing and interested in serving on the Steering Committee for the 2027–2028 term are invited to submit their candidacy. Applications must be sent by email to [elections@itrn.org](mailto:elections@itrn.org) **no later than 1 November 2026 at midnight**.
+
+Each application should include:
+
+- a brief candidate statement (approximately 10–15 lines), including the candidate's motivation and objectives for serving on the Steering Committee;
+- a short curriculum vitae, provided on the second page.
+
+Candidates must be ITRN members in good standing ([renew your membership here](/join-itrn.qmd)).
+
+The names and profiles of all candidates will be published on the ITRN website by 1 December 2026.
+
+## Online voting
+
+Online voting will be open from **7 January 2027** until **midnight on 12 February 2027**.
+
+Only members whose membership fees are fully paid as of 31 December 2026 will be eligible to vote ([renew your membership here](/join-itrn.qmd)).
+
+Each eligible member may cast up to six (6) votes for members of the Steering Committee: one (1) vote for the President-elect and five (5) votes for the other Steering Committee members. The Secretary, Treasurer and Vice-President will subsequently be selected from among the elected Steering Committee members.
+
+Together with the new President, appointed during the 2025 ITRN Congress in Verona and due to take office for the new term, the elected members will form a seven-member Steering Committee.
+
+Positions will be assigned according to the number of votes received. In the event of a tie, the candidate with the longest-standing ITRN membership will be elected.
+
+## ITRN Statutes
+
+The election process is governed by the ITRN Statutes, available in full on [Zenodo](https://zenodo.org/records/8136474).
+
+Relevant provisions include:
+
+**Article 9 – Members' rights and duties**
+: All members have the right to participate actively in the life of ITRN, to stand for positions within the Association, and to participate and vote in the General Assembly.
+
+**Article 14 – Steering Committee**
+: The Steering Committee consists of a minimum of three and a maximum of nine members, who serve for a two-year term. The Steering Committee is elected by the General Assembly. At its first meeting, the Steering Committee appoints from among its members the Vice-President, Secretary and Treasurer. Upon the President's proposal, Steering Committee members may also take on specific operational responsibilities according to the needs of the Association.
+
+## Key dates
+
+| Date | Milestone |
+|------|-----------|
+| 1 November 2026, midnight | Deadline for candidacies |
+| 1 December 2026 | Candidates published on the ITRN website |
+| 31 December 2026 | Membership fee deadline for voting eligibility |
+| 7 January 2027 | Online voting opens |
+| 12 February 2027, midnight | Online voting closes |
+| 15–16 February 2027 | New Steering Committee officially announced at the ITRN Congress in Turin |
+
+Members interested in standing for election are invited to submit their candidate statement and short CV to [elections@itrn.org](mailto:elections@itrn.org) by the deadline indicated above.
+
+For any questions or further information about the tasks, duties or anything concerning the activities of the Steering Committee's members, please contact the [ITRN Steering Committee](mailto:contact@itrn.org).
+
+[Download the flyer](https://drive.google.com/file/d/1WsiZp36HOWHeos94X7Jn4jSjNO8UlyfU/view?usp=drive_link){.btn .btn-outline-primary}
+
+*ITRN Steering Committee*

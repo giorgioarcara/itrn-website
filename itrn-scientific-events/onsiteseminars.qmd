@@ -1,0 +1,35 @@
+---
+title: "Onsite Seminars on Open Science"
+toc: false
+---
+
+The onsite seminars are seminars with 2–4 presentations organised in cooperation between the ITRN Steering Committee and the local node. The topic(s) covered are based on local needs and on the expertise available within ITRN.
+
+## Past seminars
+
+### Introductory Training on Open Science
+
+**Date:** February 1, 2023, 13:15 – 16:30 (CET)\
+**Venue:** University of Verona, Polo Zanotto, room T5, Viale Università, 4, Verona\
+**Local node organizer:** Michele Scandola\
+**Programme:** [full programme](https://drive.google.com/file/d/1EOe22tM694ohtPR27-DYj6tQo1a7V2gt/view?usp=share_link)
+
+::: {.entry}
+**Carlo Miniussi** – The reproducibility crisis in scientific research, a new research paradigm & ITRN presentation\
+[[Slides](https://zenodo.org/record/7594401)]{.entry-links}
+:::
+
+::: {.entry}
+**Marta Bortoletto** – Open science practices: From registered reports to large-scale collaborative projects\
+[[Slides](https://zenodo.org/record/7603782)]{.entry-links}
+:::
+
+::: {.entry}
+**Vittorio Iacovella** – Structuring experimental data: rethinking data acquisitions to enable replications\
+[[Slides](https://zenodo.org/record/7594429)]{.entry-links}
+:::
+
+::: {.entry}
+**Michele Scandola** – Multiverse analysis\
+[[Slides](https://github.com/michelescandola/multiverse_analysis)]{.entry-links}
+:::

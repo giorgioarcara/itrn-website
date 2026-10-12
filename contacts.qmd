@@ -1,0 +1,27 @@
+---
+title: "Contacts"
+toc: false
+---
+
+For more information or if you have any enquiries, please contact us via e-mail.
+
+[<i class="bi bi-envelope-fill" aria-hidden="true"></i> contact@itrn.org](mailto:contact@itrn.org){.btn .btn-primary .btn-lg}
+
+## Specific contacts
+
+| Topic | Address |
+|:------|:--------|
+| General enquiries, Steering Committee | [contact@itrn.org](mailto:contact@itrn.org) |
+| Membership, renewals and payments | [membership@itrn.org](mailto:membership@itrn.org) |
+| Steering Committee elections | [elections@itrn.org](mailto:elections@itrn.org) |
+| Online seminars | [educational@itrn.org](mailto:educational@itrn.org) |
+| ReproCoffee journal club | [reprocoffee@itrn.org](mailto:reprocoffee@itrn.org) |
+| ITRN Teaching | [teaching@itrn.org](mailto:teaching@itrn.org) |
+
+: {.striped}
+
+## Stay in touch
+
+- Subscribe to the [ITRN mailing list](community/itrn-mailing-list.qmd)
+- Read the [ITRN newsletter](community/newsletter.qmd)
+- Follow ITRN on [LinkedIn](https://www.linkedin.com/company/italian-reproducibility-network/) and [Facebook](https://www.facebook.com/profile.php?id=61588036597299)

@@ -1,0 +1,55 @@
+---
+title: "Teaching"
+---
+
+ITRN Teaching is an initiative focusing on advancing the principles of reproducibility and open science. This initiative stems from our commitment to fostering transparency, reliability, and collaboration in scientific research, centering three main pillars: educational resources, expert networks, and course promotion.
+
+The initiative is run by (in alphabetical order): Sara Garofalo (Università di Bologna), Marco Lezcano (Università di Verona), Marco Tullio Liuzza (Università di Padova), Thomas Charles Joseph Quettier (Università di Bologna), Michele Scandola (Università di Verona), Cristina Zogmaister (Università di Milano Bicocca).
+
+You can contact the initiative (collectively) at [teaching@itrn.org](mailto:teaching@itrn.org).
+
+## Goals
+
+::: {.card-grid}
+::: {.nav-card}
+<i class="bi bi-collection-fill" aria-hidden="true"></i>
+
+### 1. Systematizing and developing educational materials
+
+We aim to organize and make a comprehensive collection of existing teaching materials related to reproducibility and open science accessible. At the same time we will actively create new teaching materials designed to address current gaps and emerging needs.
+:::
+
+::: {.nav-card}
+<i class="bi bi-list-check" aria-hidden="true"></i>
+
+### 2. Listing courses and experts
+
+We will compile and maintain an up-to-date list of courses focused on reproducibility and open science. We will establish a directory of experts in reproducibility and open science. This will facilitate connections between learners and seasoned professionals, fostering a collaborative and supportive learning environment.
+:::
+
+::: {.nav-card}
+<i class="bi bi-megaphone-fill" aria-hidden="true"></i>
+
+### 3. Promoting courses and integration into doctoral programs
+
+We will actively promote courses related to reproducibility and open science. This includes both standalone workshops and those integrated into existing educational programs. We will also advocate for the inclusion of reproducibility and open science training within doctoral programs.
+:::
+:::
+
+## Get involved!
+
+::: {.grid}
+::: {.g-col-12 .g-col-md-8}
+We have developed a questionnaire for our [Expert List](../resources/expert-list.qmd)! Scan the QR code, or [open the questionnaire](https://forms.gle/cU6bTPvMMpRhULTt7), to contribute your expertise and help us build a strong network.
+:::
+
+::: {.g-col-12 .g-col-md-4}
+![](../images/expert-list-qr.png){fig-alt="QR code linking to the ITRN Expert List questionnaire" width="200px" fig-align="center"}
+:::
+:::
+
+## ITRN Teaching manifesto
+
+<!-- TODO: on Google Sites the manifesto is an embedded Google Drive file. Add its link here,
+     e.g. [Read the manifesto](https://drive.google.com/file/d/<FILE-ID>/view) or, better, a Zenodo DOI. -->
+Manifesto of the ITRN Teaching group.

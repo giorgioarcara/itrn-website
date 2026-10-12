@@ -1,0 +1,29 @@
+---
+title: "ITRN Annual Meeting"
+toc: false
+---
+
+::: {.callout-important appearance="simple" icon="false"}
+## Next meeting: ITRN 2027 · Turin, 15–16 February 2027
+
+Hosted and organised by the National Institute of Metrological Research (INRiM). The programme and registration details will be available shortly. [Read the save-the-date →](../../news/posts/2026-09-18-save-the-date-turin-2027/index.qmd)
+:::
+
+## ITRN National Meeting 2026
+
+### The Present of Research is Open
+
+**Location:** University of Verona – Polo Zanotto (Aula Caprioli) – Viale dell'Università, 4, 37129 Verona VR, Italia\
+**Dates:** February 12–13, 2026
+
+[<i class="bi bi-book" aria-hidden="true"></i> ITRN 2026 @ Verona – Book of Abstracts](https://zenodo.org/records/18740307){.btn .btn-primary}
+
+The full programme of the 2026 meeting is available among the [past annual meetings](past-annual-meetings.qmd#y2026).
+
+::: {.embed-responsive style="aspect-ratio: 16 / 9; max-height: 400px;"}
+<iframe src="https://maps.google.com/maps?hl=en&ll=45.436414,11.004231&output=embed&q=45.436338,11.004075&z=16" title="Map of University of Verona, Polo Zanotto" loading="lazy" allowfullscreen></iframe>
+:::
+
+## [Past annual meetings](past-annual-meetings.qmd)
+
+Programmes and materials of all previous ITRN meetings, since the 2021 Kickoff Event.

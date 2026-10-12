@@ -1,0 +1,375 @@
+---
+title: "Past annual meetings"
+subtitle: "Programmes of the ITRN national meetings, newest first"
+toc-depth: 2
+---
+
+## 2026 · The Present of Research is Open · Verona {#y2026}
+
+**Location:** University of Verona – Polo Zanotto (Aula Caprioli) – Viale dell'Università, 4, 37129 Verona VR, Italia\
+**Dates:** February 12–13, 2026
+
+The Italian Reproducibility Network (ITRN) invites you to its 2026 National Meeting, dedicated to the theme: **"The Present of Research is Open"**.
+
+This edition focuses on the transformative role of Open Science in fostering transparency, reproducibility, and collaboration across disciplines. The event will feature international keynote speakers, practical workshops, and interdisciplinary discussions.
+
+[<i class="bi bi-book" aria-hidden="true"></i> Book of Abstracts](https://zenodo.org/records/18740307){.btn .btn-outline-primary .btn-sm}
+
+### February 12 – Pre-congress Workshop and Introductory Keynote
+
+With the participation of the ITRN Educational WG Group. Maximum number of participants: 40.
+
+A full day of hands-on training for students and PhD candidates on essential Open Science practices:
+
+- Data Management Plan & Data Fairification
+- Preregistration & Registered Reports
+- Open Data / Open Code / Team Science
+- Open Peer Review / Corrections / Pre-print / Open Access
+
+The morning program will open with an introductory talk, followed by two parallel hands-on classes (maximum 20 participants each). One group will begin with "Data Management Plan & Data Fairification" and then continue with "Preregistration & Registered Reports", while the other group will follow the reverse order.
+
+In the afternoon, the format will be similar, with two additional hands-on sessions: "Open Data / Open Code / Team Science" and "Open Peer Review / Corrections / Preprints / Open Access".
+
+The day will conclude with an introductory keynote by Prof. Nathan Faivre (University of Grenoble), recipient of both ERC Starting and Consolidator Grants, who will speak on the role of Open Science in ERC-funded projects.
+
+::: {.programme}
+**09:00 – 10:00** Registration
+
+**10:00 – 10:45** Introduction to Open Science
+
+**11:00 – 12:00** Morning Hands-On session. Two 20-participant classes switching between: (a) Data Management Plan & Data Fairification (1h); (b) Preregistration & Registered Reports (1h)
+
+**13:00 – 14:15** Lunch Break
+
+**14:15 – 16:45** Afternoon Hands-On session. Two 20-participant classes switching between: (a) Open Data / Open Code / Team Science (1h 15′); (b) Open Peer Review / Corrections / Preprints / Open Access (1h 15′)
+
+**17:00 – 17:20** Concluding Remarks
+
+**17:30** Keynote Speaker
+:::
+
+### February 13 – ITRN National Congress
+
+Preliminary programme:
+
+::: {.programme}
+**09:00 – 09:30** Registration
+
+**09:30 – 10:00** Introduction
+
+**Plenary Session: "The Present of Research is Open"**
+
+**10:00 – 10:45** Juliana Elisa Raffaghelli (University of Padova) – Open Science and qualitative data
+
+**10:45** Coffee Break
+
+**11:00 – 11:45** Sabina Leonelli (Technical University of Munich) – The philosophy of Open Science
+
+**11:45** Poster Session
+
+**13:00** Lunch
+
+**14:30** Working Groups and ITRN Members' Activities
+
+**15:30** Coffee Break
+
+**16:00** ITRN Awards 2026
+
+**17:00** ITRN General Assembly
+:::
+
+### Poster session
+
+The poster session will feature four types of contributions:
+
+1. **Original Experimental Work** – presentation of new research studies conducted using Open Science practices.
+2. **Reproduction/Replication of Previous Work** – projects aimed at validating or replicating existing studies.
+3. **Open Science Tools** – development or application of tools, resources, or methods that support Open Science.
+4. **Open Science Kickstart** – proposals for projects not yet started, where participants outline how they plan to integrate Open Science principles. This last category is also designed as a space for discussion and feedback, allowing presenters to seek advice and support on how to best implement Open Science in their work.
+
+When submitting an abstract for a poster, please make sure to include the following fields:
+
+- Title of the poster.
+- Category, selecting one of the following options: Original experimental work; Reproduction/replication of previous work; Open Science tools; Open Science Kickstart.
+- Digital Object Identifier (DOI), if available.
+- List of contributors, including all authors involved in the project.
+- CRediT statement, describing the specific contributions of the person submitting the abstract, following the CRediT (Contributor Roles Taxonomy).
+- Abstract, clearly summarizing the objectives, methods, and outcomes of the work.
+- Project start and end dates, indicating the duration of the project.
+
+### Objectives of the meeting
+
+- Promote interdisciplinary collaboration beyond psychology
+- Support the adoption of Open Science in Italian universities
+- Strengthen a culture of reproducibility and transparency
+- Offer practical training for early-career researchers
+
+### Registration fees
+
+- €20 for 2026 ITRN members or participants from ITRN member institutions
+- €50 for all others (includes a one-year ITRN membership)
+
+To pay the fee, please use the bank details provided [here](/join-itrn.qmd).
+
+If you are already an ITRN member and only need to pay the conference fee, please use the payment reference "Registration to ITRN2026 conference – Cognome e Nome" and use the same text as the subject of the email you send to [membership@itrn.org](mailto:membership@itrn.org).
+
+If you wish to register for the conference and subscribe to a three-year ITRN membership, follow the instructions at the link above and include the additional €20 conference fee in your payment. In the payment reference, please write: "Quota Associativa ITRN and Registration ITRN2026 – Cognome e Nome – anno/anni (indicare l'anno o gli anni)".
+
+### Deadlines
+
+- Poster submission: 6/01/2026. Deadline extended: 19/01/2026.
+- Registration: 19/01/2026. Deadline extended: 23/01/2026.
+
+We welcome students, PhD candidates, researchers, and academics from all disciplines to join us in Verona and contribute to a shared reflection on the present and on the future of research.
+
+**Local Organization team:** Michele Scandola, Anna Carreri, Roberta Silva, Rocco Gaudenzi, Bogdan Maris, Martina Pastorelli, Marco Lezcano.
+
+**ITRN Educational WG:** Michela Vezzoli, Ezia Rizzi, Federica Conte, Gabriele Fusco, Vittorio Iacovella.
+
+## 2025 · Scienza aperta e inclusività · Milano {#y2025}
+
+Il 4° congresso annuale dell'ITRN, in presenza, si terrà il 13-14 febbraio 2025 a Milano presso le sedi dell'Università Cattolica del Sacro Cuore (13/02) e dell'Università degli Studi di Milano - Bicocca (14/02).
+
+Il 13 Febbraio sarà una giornata di pre-congresso, durante la quale sarà possibile partecipare a [workshop interattivi](#workshops-2025) ed assistere alla relazione inaugurale di Silvia Penati, [Chair del COARA Working Group: TIER - Towards an Inclusive Evaluation of Research](https://coara.eu/working-groups/working-groups/wg-tier-towards-an-inclusive-evaluation-of-research/).
+
+La giornata del 14 Febbraio sarà dedicata ad interventi su "Scienza aperta ed inclusività" e alla presentazione dell'attività annuale dei membri ITRN. E' prevista inoltre una sessione di presentazione poster e la presentazione del [premio ITRN Award 2024](../reproducibility-awards-list.qmd).
+
+### Giovedì 13 Febbraio 2025
+
+Università Cattolica del Sacro Cuore (Largo A. Gemelli, 1, Milano)
+
+::: {.programme}
+**10:00** Accoglienza [Aula Borsi G.011]
+
+**10:30** Presentazione Workshop
+
+**11:00 – 16:00** Workshop pratici [Aule G.112, G.113, G.114]
+
+**16:30** Relazione Inaugurale di Silvia Penati, Chair del COARA Working Group: TIER - Towards an Inclusive Evaluation of Research [Aula Magna]
+:::
+
+### Venerdì 14 Febbraio 2025
+
+Università degli Studi di Milano - Bicocca, Edificio U6 - Agorà - Aula Martini - Piazza dell'Ateneo Nuovo, 1, Milano
+
+::: {.programme}
+**09:30** Apertura iscrizioni
+
+**10:00** Benvenuto e saluti istituzionali
+
+**10:20** Scienza aperta e inclusività: [Miriam Kip](https://www.bihealth.org/en/quest/teams/team/research-group-kip) (Berlin Institute of Health @Charité), [Alberto Baccini](https://docenti.unisi.it/it/albertobaccini) (Università di Siena), [Giulia Calignano](https://www.linkedin.com/in/giulia-calignano-ph-d-6b401bab/) (DPSS - Università di Padova)
+
+**13:00** Pausa Pranzo / Poster Session. Per presentare un poster, è possibile inviare un abstract entro il 31/01/2025 tramite l'apposito form. In caso di accettazione, l'organizzazione invierà le istruzioni entro il 7 Febbraio 2025.
+
+**14:00** Working Groups e attività dei membri ITRN: (1) ITRN - Educational; (2) ITRN - Data Sharing; (3) ITRN - Teaching; (4) ITRN - AI and Experiments; (5) ITRN - TIDieR extension
+
+**15:00** ITRN Award 2024
+
+**16:00** Assemblea dei soci
+
+**17:00** Conclusioni e saluti
+:::
+
+### Workshops {#workshops-2025}
+
+Nella giornata del 13 Febbraio (Università Cattolica del Sacro Cuore, Milano, 11:00 - 16:00 CET) sarà possibile partecipare a uno fra i tre seguenti workshop.
+
+- **Riproducibilità dei metodi:** Conte Federica, Fusco Gabriele, Vezzoli Michela, Zogmaister Cristina
+- **Fairification dei dati:** Manfredini Carolina, Giovinazzi Laura, Criveller Margherita
+- **Preregistrazione:** Zambelli Michela
+
+### Comitato Organizzativo
+
+- Bonaria Biancu (Università degli Studi di Milano-Bicocca)
+- Rossella Caliciuri (Università Cattolica del Sacro Cuore)
+- Federica Conte (Università degli Studi di Milano-Bicocca, Responsabile del nodo unimib di ITRN)
+- Paola Galimberti (Università degli Studi di Milano)
+- Margherita Lanz (Università Cattolica del Sacro Cuore)
+- Ezia Rizzi (Università degli Studi di Milano-Bicocca, Steering Committee di ITRN)
+- Cristina Zogmaister (Università di Milano-Bicocca, Vice Presidente di ITRN)
+
+## 2024 · L'Open Science in Italia · Bologna {#y2024}
+
+Il 3° congresso annuale dell'ITRN, in presenza, si è tenuto il 23 febbraio 2024 presso l'Università di Bologna, Aula Magna Dipartimento di Psicologia, Viale Berti Pichat 5, Bologna.
+
+[<i class="bi bi-book" aria-hidden="true"></i> Libro degli abstract](https://doi.org/10.5281/zenodo.10552325){.btn .btn-outline-primary .btn-sm}
+
+::: {.programme}
+**9:30** Apertura iscrizioni al congresso (accesso gratuito) e raccolta iscrizioni a ITRN
+
+**10:10 – 10:30** Benvenuto e saluto. Saluti istituzionali. Saluti e presentazione del nodo di Bologna
+
+**10:30 – 11:30** Presentazioni libere "open science research practices" ([libro degli abstract](https://doi.org/10.5281/zenodo.10552325))
+
+**11:30 – 13:30** I protagonisti dell'Open Science in Italia: il loro ruolo e contributo
+
+**13:30 – 14:30** Pausa
+
+**14:30 – 15:30** Working Groups e attività dei membri ITRN
+
+**15:30 – 15:45** Presentazione premio ITRN – Cristina Zogmaister e Carlo Miniussi
+
+**15:45 – 17:00** Assemblea dei soci
+
+**17:00** Conclusioni e saluti
+:::
+
+### Presentazioni libere "open science research practices"
+
+Brevi interventi che affrontano il know-how della scienza aperta, i modelli, le pratiche, i mandati, le politiche, i fattori rilevanti per la riproducibilità, progetti collaborativi, o repliche. Coordinano: Claudia Mazzuca, Massimo Grassi.
+
+::: {.programme}
+**10:30 – 10:37** Replicability and transparency in qualitative research – a case study from Cultural Heritage. *Bianca Gualandi, Alice Bordignon, Silvio Peroni*
+
+**10:37 – 10:44** The first steps of the Italian Community of Data Stewards. *Giulia Caldoni, Valentina Pasquale, Emma Lazzeri, Sara Di Giorgio, Chiara Basalti, Monica Forni*
+
+**10:44 – 10:51** An open-access reading assessment tool: ROAR (Rapid Online Assessment of Reading) – Italian version. *Sendy Caffarra, Emanuele Casani, Wanjing Anya Ma, Kyle Montville, Jason D. Yeatman*
+
+**10:51 – 10:58** Extending BIDS to lung CT imaging: right here, right now. *Giulia Raffaella De Luca, Armand Violle, Stefano Diciotti*
+
+**10:58 – 11:05** Decoding the dilemma: reproducibility pitfalls in Machine Learning with limited medical data. *Stefano Diciotti, Matteo Lai, Chiara Marzi*
+
+**11:05 – 11:12** The multiverse approach in multilab projects: we need robustness to navigate uncertainty. *Giulia Calignano, Psicostat Core Team*
+
+**11:12 – 11:19** Open Science Practice and Reproducibility in Preclinical Animal Research. *Monica Forni*
+
+**11:19 – 11:26** Il network NICo (Network Italiano delle Core facilities). *Valentina Adami*
+:::
+
+### I protagonisti dell'Open Science in Italia: il loro ruolo e contributo
+
+L'obiettivo di questo simposio è fornire un'analisi delle funzioni svolte da diverse organizzazioni e gruppi che promuovono e agevolano l'Open Science in Italia. In una prospettiva di sostenibilità, miriamo favorire lo scambio per ottenere un quadro che eviti la duplicazione di sforzi e la reinvenzione di procedure. Coordinano: Davide Crepaldi, Sara Garofalo, Vittorio Iacovella.
+
+- [Italian Computing and Data Infrastructure](https://www.icdi.it/it/) Competence Centre ICDI – Sara Di Giorgio, GARR, coordinatrice del Centro di Competenza di ICDI
+- [Italy - OpenAIRE](https://www.openaire.eu/os-italy), [Open Science Italia](https://open-science.it/about) – Gina Pavone, ISTI CNR Pisa
+- [EOSC Italy](https://eosc.eu/tripartite-collaboration/italy) – Giorgio Rossi, Università di Milano e Membro italiano dello EOSC-Steering Board
+- Open Science Observatory Italia – Paola Galimberti, Università di Milano e coordinatrice OSObservatory_IT
+- [CRUI Osservatorio sulla Scienza Aperta](https://osa.crui.it/) – Roberto Delle Donne, Università di Napoli Federico II e coordinatore CRUI OSA
+- Tavolo di lavoro sull'attuazione del Piano Nazionale Scienza Aperta – Donatella Castelli, ISTI CNR Pisa e Coordinatrice PNSA
+- [National Chapter CoARA](https://coara.eu/coalition/national-chapters/) sulla valutazione della ricerca – Francesca Masini, Università di Bologna e co-chair Italian NC CoARA
+- [Associazione Italiana per la Promozione della Scienza Aperta](https://aisa.sp.unipi.it/chi-siamo/) AISA – Maria Chiara Pievatolo, Università di Pisa e Presidente AISA
+
+### Working Groups e assemblea
+
+**Working Groups e attività dei membri ITRN** – Presentazioni delle attività dei Working Groups ed altre iniziative dei membri della rete ITRN. Coordina Ezia Rizzi.
+
+**Assemblea dei soci** – Resoconto dell'anno 2023 e presentazione delle attività in corso (Carlo Miniussi, Ezia Rizzi, Vittorio Iacovella, Massimo Grassi). Nuove iniziative e proposte dai soci.
+
+**Organizzazione locale:** S. Garofalo\
+**Comitato Organizzatore:** D. Crepaldi, M. Grassi, V. Iacovella, D. Mangione, C. Mazzuca, T. Metitieri, C. Miniussi, E. Rizzi, C. Zogmaister
+
+## 2023 · Roma {#y2023}
+
+Il congresso annuale dell'ITRN, in presenza, si è tenuto il 24 febbraio 2023 presso la [Facoltà di Medicina e Psicologia, Università "La Sapienza", Roma](https://www.google.com/maps/place/Facolt%C3%A0+di+Psicologia+Sapienza+Universit%C3%A0+di+Roma/@41.8965272,12.5139867,17z/data=!3m1!4b1!4m5!3m4!1s0x132f619af13f8729:0xb3e74d0985fd2bed!8m2!3d41.8965272!4d12.5161754).
+
+[<i class="bi bi-file-earmark-pdf" aria-hidden="true"></i> Download the programme](https://drive.google.com/file/d/1b88YCwntWsDqRG4mhR4sQxEziDJyMj-2/view?usp=share_link){.btn .btn-outline-primary .btn-sm}
+[<i class="bi bi-image" aria-hidden="true"></i> Download the flyer](https://drive.google.com/file/d/1B6UB1wUj0g1jwNKTHtgqCYMUeH9ZZ7RB/view?usp=share_link){.btn .btn-outline-primary .btn-sm}
+
+### Programma
+
+::: {.programme}
+**9:30** Apertura iscrizioni all'Associazione
+
+**10:20 – 10:30** Benvenuto e saluto delle autorità: Prof.ssa Tiziana Pascucci, Prorettrice e Vice Preside di Facoltà; Prof.ssa Anna Maria Speranza, Direttrice Dipartimento di Psicologia Dinamica, Clinica e Salute
+
+**10:30 – 11:00** Presentazione Associazione. Coordinano: Carlo Miniussi/Cristina Zogmaister. Saluti e presentazione del nodo di Roma. Presentazione delle attività in corso
+
+**11:00 – 12:00** La condivisione dei dati biomedici (Italiano). Coordina: Tiziana Metitieri. [Evento associato alla creazione di un gruppo di lavoro ITRN sulla condivisione dei dati biomedici.] Vittorio Iacovella (UniTrento) – Conservare e condividere i dati della ricerca; Giorgia Bincoletto (UniTrento) – Privacy, Open data e condivisione dei dati della ricerca biomedica
+
+**12:00 – 13:30** Practices of Reproducibility: Multilab experiences (English). Coordinano: Giulia Calignano/Massimo Grassi
+
+**13:30 – 14:30** Pausa
+
+**14:30 – 16:00** Tavola rotonda "Valutazione della ricerca" (Italiano). Coordina: Andrea Capocci (collaboratore de Il Manifesto - Le Scienze). Partecipano: Menico Rizzi (ANVUR - UniPiemonte Orientale), Francesca Di Donato (CNR Pisa), Davide Crepaldi (ITRN - SISSA)
+
+**16:00 – 17:00** Assemblea dei soci. Consiglio direttivo, resoconto dell'attività in modalità interattiva, nuove iniziative e proposte dai soci
+
+**17:00** Conclusioni e saluti
+:::
+
+### Practices of Reproducibility: Multilab experiences
+
+- The cross-cultural generalization of a theoretical model of problematic use of social media – T Moretta, C Shubao, Z Demetrovics, MN Potenza
+- A multi-lab approach to infant studies: examples from the Bicocca Child&BabyLab – R Bettoni, S Conte, V Macchi Cassia
+- "Many Smiles" multi-lab study – MT Liuzza
+- Team for TMS-EEG: A big team initiative to improve reproducibility in TMS-EEG – M Bortoletto
+- Meta-research for evaluating replicability in psychological science: call for a crowdsourcing project – M Vezzoli, F Conte, A Facchin, F Giaquinto, E Rizzi, C Zogmaister
+- "Do musicians have better short term memory than non musicians?" A multilab Study – M Grassi
+- CuttingGardens: Share knowledge globally, grow competence locally – M Ruzzoli, S Pinet, A Schramm, AS Dubarr, M Chaumon
+
+"Bring your own badge": con l'obiettivo di ridurre impronta ecologica, vi chiediamo di indossare durante il congresso il "badge preferito" con il vostro nome, che avete tenuto da un precedente evento.
+
+**Organizzazione locale:** G. Fusco, S.M. Aglioti\
+**Comitato Organizzatore:** D. Crepaldi, M. Grassi, V. Iacovella, D. Mangione, C. Mazzuca, T. Metitieri, C. Miniussi, E. Rizzi, C. Zogmaister
+
+## 2022 · Online meeting and Florence {#y2022}
+
+### Online meeting – 26 October 2022
+
+An ITRN online meeting was held on Wednesday, 26 October 2022 at 15:30 (CET). During the meeting, the planned activities for 2023 were discussed and, among other, the ITRN community's opinion was sought on the possibility of transforming ITRN into an official 'associazione'.
+
+::: {.programme}
+**15:30** Opening of the meeting and ITRN activity timeline
+
+**15:35** Reasons for creating an official "Associazione" Italian Reproducibility Network: Association costs, Membership costs, Official ITRN annual meeting, Steering Committee structure and additional members, Ambassadors
+
+**16:20** Update on ITRN official documents
+
+**16:25** Current and past initiatives that we are organizing for the next academic year: Call for members to participate in working groups and initiatives
+
+**16:45** Additional items
+
+**17:00** Closing remarks and next ITRN meeting February 2023
+:::
+
+All members present had the opportunity to express their opinions. Full support was given for the path of making ITRN an 'associazione'.
+
+### "Provando e riprovando" – Florence, 13 May 2022
+
+The first meeting in presence of ITRN was held in Florence on 13 May 2022, in the [Salone delle Robbiane, Villa La Quiete](https://www.sma.unifi.it/vp-449-la-sala-delle-robbiane.html) / AOU Meyer, [Firenze](https://www.google.com/maps/place/Villa+La+Quiete/@43.8134854,11.2401623,17z/data=!3m1!4b1!4m5!3m4!1s0x132a567b2ed3b0a7:0x5cd5050de5a5512f!8m2!3d43.8132787!4d11.2421896), hosted by Tiziana Metitieri. The title of the meeting was "[Provando e riprovando](https://brunelleschi.imss.fi.it/cimento/itop1.html?center=metodo/2_04/indice.html)", which recalls the motto of the Accademia del Cimento, established in 1657 in Florence to implement Galileo's experimental method.
+
+::: {.programme}
+**13:50** Greetings and opening of the meeting – Next in Open Science, Tiziana Metitieri
+
+**14:00** Practices of Reproducibility: new projects and new tools – Chair: Cristina Zogmaister, introducing short presentations from network members:
+14:00 Sara Garofalo – Pre-registration: why and how;
+14:10 Agnese Zazio – Practices of reproducibility in TMS-EEG studies;
+14:20 Esther Maassen – Computational reproducibility of measurement invariance tests and meta-analyses;
+14:30 Marco Stebel – Protocol for improved reproducibility of liver studies: impact on animal reduction
+
+**14:45** The ITRN activity: an overview of the first year – Chairs: Davide Crepaldi and Vittorio Iacovella. Nodes Presentation – Marco Tullio Liuzza; Preliminary results from the ITRN Survey – Maria Montefinese; ReproCoffee: a national platform to discuss reproducibility – Claudia Mazzuca, Federica Stablum; Educational activities – Federica Conte, Ezia Rizzi, Michela Vezzoli; SIPF-ITRN Prize – Marta Bortoletto; Call for new proposals from the ITRN community (ideas from you to organize a new season of events)
+
+**15:45** Break: opportunities to create connections for collaborations
+
+**16:00** "Eppur si muove" – Il presente della Scienza Aperta in Italia. Tavola rotonda. Introduce Massimo Grassi, moderatore Fabio Turone Lantin di [SWIM](https://www.sciencewriters.it/) e [CESJ](https://www.cesj.eu/), con Roberto Caso di [AISA](https://aisa.sp.unipi.it/chi-siamo/), Emma Lazzeri di [ICDI](https://www.icdi.it/it/) e [GARR](https://www.garr.it/it/) e Carlo Miniussi di ITRN
+
+**17:00** Closing remarks: Carlo Miniussi, Massimo Grassi, Davide Crepaldi, Tiziana Metitieri, Cristina Zogmaister
+:::
+
+## 2021 · Kickoff Event {#y2021}
+
+The ITRN Kickoff Event was the first public event organized by ITRN – our very own debutants' ball. We presented the Network – its goals and the way it works – and the first initiatives that the Steering Committee has put in place. In addition, we had a keynote from the great [Russell Poldrack](https://poldracklab.stanford.edu/), a Professor at Stanford and one of the leaders of the reproducibility movement in Neuroimaging.
+
+The Kickoff Event was held on Thursday 14 October 2021, 4pm CEST. We were hoping to hold the event in person, but the COVID situation suggested otherwise in the end. The event was held on Zoom and also streamed on YouTube (recordings are available among the [presentations](../../resources/presentations.qmd)).
+
+::: {.programme}
+**16:00** Welcome address from the Steering Committee
+
+**16:10** Russell Poldrack, "Open and reproducible science in neuroimaging: It takes an ecosystem"
+
+**16:50** Break
+
+**17:00** The goal(s) of ITRN, and how it works
+
+**17:10** Our partners
+
+**17:15** The first ITRN initiatives: A series of seminars on Open Science (conceived as a PhD-level course)
+
+**17:25** The first ITRN initiatives: The website and the networking
+
+**17:35** The first ITRN initiatives: The Social Media and Open Science Stories
+
+**17:45** Questions from the floor and open discussion
+
+**18:00** Closing remarks and goodbyes
+:::

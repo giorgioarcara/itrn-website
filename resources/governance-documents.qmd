@@ -1,0 +1,47 @@
+---
+title: "Governance documents"
+subtitle: "In this page you can find all relevant documents of ITRN"
+toc: false
+---
+
+::: {.card-grid style="grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));"}
+::: {.nav-card}
+<i class="bi bi-map-fill" aria-hidden="true"></i>
+
+### [Strategic Plan 2025–2026](https://drive.google.com/file/d/194R0Czrh01eu7E9E7kAh-FRSZPVc8SBY/view?usp=sharing){.stretched-link}
+
+The comprehensive, long-term roadmap guiding an organization's vision, goals, and actions.
+:::
+
+::: {.nav-card}
+<i class="bi bi-bank2" aria-hidden="true"></i>
+
+### [Statuto](https://drive.google.com/file/d/1HWtpzeklopy6vCzo1r1fd1c6p_NMdj0T/view?usp=share_link){.stretched-link}
+
+Statuto dell'Italian Reproducibility Network (in Italian). Also available on [Zenodo](https://zenodo.org/records/8136474).
+:::
+
+::: {.nav-card}
+<i class="bi bi-gender-ambiguous" aria-hidden="true"></i>
+
+### [Gender Equality Plan](https://drive.google.com/file/d/1nzNBjci9xAIRdzR-3iYwkmRWKceYu4Nv/view?usp=drive_link){.stretched-link}
+
+Promoting gender equality within its organization and activities.
+:::
+
+::: {.nav-card}
+<i class="bi bi-diagram-2-fill" aria-hidden="true"></i>
+
+### [Terms of Reference](https://drive.google.com/file/d/1gBahaV93k1l8T4apX0N5fKm2ynF5JUVn/view?usp=sharing){.stretched-link}
+
+To outline how we work with individuals, institutions and external stakeholders.
+:::
+
+::: {.nav-card}
+<i class="bi bi-shield-check" aria-hidden="true"></i>
+
+### [Code of Conduct](https://drive.google.com/file/d/1yhSvCUKNKecAyzokAHfXoNTGjQyLPOG_/view?usp=sharing){.stretched-link}
+
+Raising awareness on what to do and what to avoid during ITRN events and activities.
+:::
+:::

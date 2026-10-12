@@ -1,0 +1,15 @@
+---
+title: "Expert List"
+subtitle: "ITRN Open Science experts"
+toc: false
+---
+
+The Expert List features members of ITRN who are available to deliver workshops, seminars, and training sessions on a wide range of topics related to Reproducibility and Open Science. Feel free to explore the list and to contact any ITRN members who may be able to help you.
+
+If you would like your name to be included, please complete this [questionnaire](https://forms.gle/cU6bTPvMMpRhULTt7) and let us know by sending an email to [contact@itrn.org](mailto:contact@itrn.org).
+
+[<i class="bi bi-pencil-square" aria-hidden="true"></i> Fill in the questionnaire](https://forms.gle/cU6bTPvMMpRhULTt7){.btn .btn-primary}
+
+::: {.callout-note appearance="simple"}
+Please note that only ITRN members will be added to our Expert List.
+:::
