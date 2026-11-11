@@ -9,8 +9,8 @@
 <link>https://giorgioarcara.github.io/itrn-website/news/</link>
 <atom:link href="https://giorgioarcara.github.io/itrn-website/news/index.xml" rel="self" type="application/rss+xml"/>
 <description>The Italian Reproducibility Network (ITRN) is a peer-led consortium that promotes robust, transparent and reproducible research in Italy.</description>
-<generator>quarto-1.7.31</generator>
-<lastBuildDate>Thu, 01 Oct 2026 22:00:00 GMT</lastBuildDate>
+<generator>quarto-1.11.9</generator>
+<lastBuildDate>Fri, 02 Oct 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>ITRN Steering Committee Elections 2027–2028</title>
   <link>https://giorgioarcara.github.io/itrn-website/news/posts/2026-10-02-steering-committee-elections-2027-2028/</link>
@@ -108,7 +108,7 @@ The Steering Committee consists of a minimum of three and a maximum of nine memb
   <category>Elections</category>
   <category>Governance</category>
   <guid>https://giorgioarcara.github.io/itrn-website/news/posts/2026-10-02-steering-committee-elections-2027-2028/</guid>
-  <pubDate>Thu, 01 Oct 2026 22:00:00 GMT</pubDate>
+  <pubDate>Fri, 02 Oct 2026 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Save the date: ITRN Annual Meeting 2027 in Turin</title>
@@ -154,8 +154,8 @@ The Steering Committee consists of a minimum of three and a maximum of nine memb
   <category>Annual meeting</category>
   <category>Events</category>
   <guid>https://giorgioarcara.github.io/itrn-website/news/posts/2026-09-18-save-the-date-turin-2027/</guid>
-  <pubDate>Thu, 17 Sep 2026 22:00:00 GMT</pubDate>
-  <media:content url="https://giorgioarcara.github.io/itrn-website/news/posts/2026-09-18-save-the-date-turin-2027/save-the-date-2027.jpg" medium="image" type="image/jpeg"/>
+  <pubDate>Fri, 18 Sep 2026 00:00:00 GMT</pubDate>
+  <media:content url="https://giorgioarcara.github.io/itrn-website/news/posts/2026-09-18-save-the-date-turin-2027/save-the-date-2027.jpg" medium="image" type="image/jpeg" height="179" width="144"/>
 </item>
 </channel>
 </rss>
