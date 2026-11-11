@@ -1,0 +1,57 @@
+/*-- scss:defaults --*/
+
+// Variant C · Scientific / technical — Space Grotesk, IBM Plex Sans + Mono
+@import url("https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;600;700&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap");
+
+$font-family-sans-serif: "IBM Plex Sans", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$font-family-monospace: "IBM Plex Mono", SFMono-Regular, Menlo, Consolas, monospace !default;
+$headings-font-family: "Space Grotesk", $font-family-sans-serif !default;
+$headings-font-weight: 600 !default;
+$h2-font-size: 1.45rem !default;
+$h3-font-size: 1.2rem !default;
+$border-radius: 0 !default;
+$card-radius: 0 !default;
+
+/*-- scss:rules --*/
+
+.navbar { font-family: $headings-font-family; }
+
+// Section headings with a small magenta square marker
+main h2::before {
+  content: "";
+  display: inline-block;
+  width: 0.55rem;
+  height: 0.55rem;
+  margin-right: 0.6rem;
+  vertical-align: 0.2em;
+  background: $itrn-magenta;
+}
+
+// Hero on a faint measurement grid
+.hero {
+  background-color: #fbfbfd;
+  background-image:
+    linear-gradient(rgba(18, 35, 114, 0.06) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(18, 35, 114, 0.06) 1px, transparent 1px);
+  background-size: 24px 24px;
+  border-bottom: 1px solid rgba(18, 35, 114, 0.15);
+}
+.btn { border-radius: 0; }
+.navbar .nav-link[href$="join-itrn.html"] { border-radius: 0; }
+
+// Square 1px boxes
+.nav-card {
+  border: 1px solid rgba(18, 35, 114, 0.22);
+  &:hover { border-color: $itrn-magenta; box-shadow: 4px 4px 0 rgba(218, 0, 122, 0.15); transform: none; }
+}
+
+// Monospace for dates, times and metadata
+.programme strong:first-child,
+.entry-meta,
+.listing-date,
+.panel-tabset table.table td:first-child,
+.badge-lang {
+  font-family: $font-family-monospace;
+  font-size: 0.86em;
+}
+.person img { border-radius: 0; }

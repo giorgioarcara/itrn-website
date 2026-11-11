@@ -1,0 +1,48 @@
+/*-- scss:defaults --*/
+
+// Variant D · Minimal editorial — Geist, white space, hairlines, no boxes
+@import url("https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;600&display=swap");
+
+$font-family-sans-serif: "Geist", -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$headings-font-family: $font-family-sans-serif !default;
+$headings-font-weight: 600 !default;
+$h1-font-size: 1.9rem !default;
+$h2-font-size: 1.4rem !default;
+$h3-font-size: 1.12rem !default;
+$headings-color: #1d2433 !default;
+$line-height-base: 1.7 !default;
+
+/*-- scss:rules --*/
+
+.navbar { border-bottom-color: transparent; }
+
+// Section headings sit on a full-width hairline
+main h2 {
+  padding-top: 1.5rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+h1, h2, h3 { color: $itrn-ink; }
+
+.hero {
+  background: #fff;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 4.5rem 1rem 4rem;
+  .hero-inner { grid-template-columns: minmax(140px, 200px) 1fr; }
+  .hero-title { font-weight: 500; color: $itrn-ink; letter-spacing: -0.03em; }
+  .hero-tagline { font-weight: 300; font-size: 1.3rem; }
+}
+.btn { border-radius: 999px; }
+
+// No boxes: cards become hairline-separated entries
+.nav-card {
+  border: none;
+  border-top: 1px solid rgba(0, 0, 0, 0.14);
+  border-radius: 0;
+  padding: 1rem 0 0;
+  background: transparent;
+  .bi { color: $itrn-navy; font-size: 1.1rem; }
+  h3::after { content: " →"; color: $itrn-magenta; }
+  &:hover { transform: none; box-shadow: none; border-top-color: $itrn-magenta; }
+}
+.programme { border-left-width: 1px; }
+.person img { box-shadow: none; border: none; filter: grayscale(15%); }

@@ -5,6 +5,10 @@ $itrn-navy: #9fb0ff;
 $itrn-magenta: #ff5cad;
 $primary: #9fb0ff;
 $secondary: #b5bccc;
+$itrn-ink: #e6e9f2;
+$itrn-muted: #b5bccc;
+$body-color: #e6e9f2;
+$headings-color: #c9d3ff;
 $link-color: #9fb0ff;
 $navbar-bg: #1b1f2a;
 $navbar-fg: #e6e9f2;
@@ -25,5 +29,7 @@ $footer-bg: #1b1f2a;
   .hero-tagline { color: #d4d8e4; }
   .hero-logo img, img { background: #fff; border-radius: 12px; padding: 0.75rem; }
 }
-.nav-card { border-color: rgba(255, 255, 255, 0.12); }
+.nav-card { border-color: rgba(255, 255, 255, 0.12); background: rgba(255, 255, 255, 0.03); }
+.nav-card:hover { background: rgba(255, 255, 255, 0.06); }
+h1, h2, h3, .hero .hero-title { color: #c9d3ff; }
 .person img { border-color: #222; }

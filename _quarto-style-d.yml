@@ -1,0 +1,9 @@
+# Prototype profile: render with  quarto render --profile style-d
+project:
+  output-dir: _site-d
+
+format:
+  html:
+    theme:
+      light: [cosmo, styles/itrn-base.scss, styles/variant-d.scss]
+      dark: [darkly, styles/itrn-base.scss, styles/variant-d.scss, styles/itrn-dark.scss]

@@ -4,3 +4,7 @@
 .DS_Store
 /.Rproj.user/
 /.vscode/
+/_site-*/
+.Rhistory
+# stray browser downloads of old pages; the site is built only from .qmd files
+*.html

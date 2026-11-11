@@ -1,0 +1,207 @@
+/*-- scss:defaults --*/
+
+// Shared base for every ITRN theme variant: brand colours, type scale, layout.
+// Fonts and decorative treatment live in styles/variant-*.scss (listed after this file).
+
+// ITRN brand colours, sampled from the logo
+$itrn-navy: #122372 !default;
+$itrn-magenta: #da007a !default;
+$itrn-ink: #1d2433 !default;   // body text
+$itrn-muted: #5b6478 !default; // secondary text
+
+$primary: $itrn-navy !default;
+$secondary: $itrn-muted !default;
+$info: $itrn-navy !default;
+$link-color: $itrn-navy !default;
+$body-color: $itrn-ink !default;
+
+// Type scale: body 17px, headings clearly stepped (h1 2x, h2 1.5x, h3 1.25x)
+$font-size-root: 17px !default;
+$font-size-base: 1rem !default;
+$line-height-base: 1.65 !default;
+$h1-font-size: 2rem !default;     // 34px
+$h2-font-size: 1.5rem !default;   // 26px
+$h3-font-size: 1.25rem !default;  // 21px
+$h4-font-size: 1.06rem !default;  // 18px
+$h5-font-size: 1rem !default;
+$h6-font-size: 0.9rem !default;
+$headings-line-height: 1.2 !default;
+$headings-font-weight: 650 !default;
+$headings-color: $itrn-navy !default;
+
+$navbar-bg: #ffffff !default;
+$navbar-fg: $itrn-navy !default;
+$navbar-hl: $itrn-magenta !default;
+$footer-bg: #f5f6f9 !default;
+
+$border-radius: 0.5rem !default;
+$card-radius: 0.75rem !default;
+
+/*-- scss:rules --*/
+
+// ---------- Navbar ----------
+.navbar {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  font-weight: 500;
+}
+.navbar-brand img,
+.navbar-logo { max-height: 44px; }
+// "Join ITRN" call-to-action in the navbar
+.navbar .nav-link[href$="join-itrn.html"] {
+  background: $itrn-magenta;
+  color: #fff !important;
+  border-radius: 999px;
+  padding: 0.35rem 1rem !important;
+  margin: 0 0.5rem;
+  font-weight: 600;
+  &:hover { filter: brightness(1.1); }
+}
+
+// ---------- Typography ----------
+h1, h2, .title { letter-spacing: -0.015em; }
+h1.title, .quarto-title .title { font-size: $h1-font-size; }
+.quarto-title .subtitle { font-size: 1.15rem; color: $itrn-muted; font-weight: 400; }
+h2 { margin-top: 2.5rem; margin-bottom: 1rem; border-bottom: none; }
+h3 { margin-top: 1.75rem; }
+a { text-decoration-thickness: 1px; text-underline-offset: 2px; }
+
+// ---------- Home hero ----------
+// The home page has no title: drop the empty title block so the hero sits under the navbar
+#title-block-header:empty { display: none; }
+main.content:has(> .hero) { margin-top: 0; padding-top: 0; }
+.hero {
+  padding: 3.5rem 1rem 3rem;
+  margin-bottom: 2rem;
+  .hero-inner {
+    max-width: 1100px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: minmax(180px, 300px) 1fr;
+    gap: 3rem;
+    align-items: center;
+  }
+  img { max-width: 100%; height: auto; }
+  .hero-title {
+    font-family: $headings-font-family;
+    font-weight: $headings-font-weight;
+    color: $itrn-navy;
+    font-size: clamp(2rem, 1.3rem + 2.4vw, 2.9rem);
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+    margin: 0 0 1rem;
+  }
+  .hero-tagline { font-size: 1.2rem; color: $itrn-muted; max-width: 38rem; }
+  .btn { margin: 0.75rem 0.5rem 0 0; }
+  @media (max-width: 768px) {
+    .hero-inner { grid-template-columns: 1fr; text-align: center; gap: 1.5rem; }
+    img { max-width: 200px; margin: 0 auto; }
+    .hero-tagline { margin: 0 auto; }
+  }
+}
+.btn { font-weight: 600; border-radius: $border-radius; }
+.btn-accent {
+  background: $itrn-magenta;
+  border-color: $itrn-magenta;
+  color: #fff;
+  &:hover, &:focus { background: darken($itrn-magenta, 7%); border-color: darken($itrn-magenta, 7%); color: #fff; }
+}
+
+// ---------- Card grids (overview pages, home) ----------
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 1.25rem;
+  margin: 1.5rem 0;
+}
+.card-grid.four { grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)); }
+.nav-card {
+  position: relative;
+  border: 1px solid rgba(0, 0, 0, 0.09);
+  border-radius: $card-radius;
+  padding: 1.25rem 1.35rem;
+  background: var(--bs-body-bg);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  h3 { font-size: 1.12rem; font-weight: 650; margin: 0.6rem 0 0.4rem; }
+  h3 a { text-decoration: none; color: inherit; }
+  p { margin-bottom: 0; color: $itrn-muted; font-size: 0.95rem; }
+  .bi { font-size: 1.4rem; color: $itrn-magenta; }
+  &:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(18, 35, 114, 0.1); }
+}
+// Keep secondary links inside a fully-clickable card clickable
+.nav-card a:not(.stretched-link) { position: relative; z-index: 2; }
+
+// ---------- People grid (steering committee) ----------
+.people-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 1.75rem 1.25rem;
+  margin: 1.5rem 0 2rem;
+  text-align: center;
+}
+.people-grid.solo { display: flex; justify-content: center; }
+.person {
+  figure, p { margin: 0; }
+  img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid #fff;
+    box-shadow: 0 0 0 2px rgba(18, 35, 114, 0.25);
+    margin-bottom: 0.75rem;
+  }
+  h3 { font-size: 1.02rem; margin: 0.25rem 0 0.1rem; color: $itrn-ink; }
+  .role { color: $itrn-magenta; font-weight: 600; font-size: 0.9rem; }
+}
+.person.featured img { box-shadow: 0 0 0 3px $itrn-magenta; }
+
+// ---------- Programme / timeline lists ----------
+.programme {
+  border-left: 2px solid rgba(18, 35, 114, 0.18);
+  padding-left: 1rem;
+  margin: 1rem 0 1.5rem;
+  p { margin-bottom: 0.45rem; }
+  strong:first-child { color: $itrn-navy; font-variant-numeric: tabular-nums; }
+}
+
+// ---------- Seminar and resource entries ----------
+.entry {
+  padding: 0.85rem 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
+  p { margin-bottom: 0.2rem; }
+  .entry-meta { color: $itrn-muted; font-size: 0.92rem; }
+  .entry-links a { margin-right: 0.75rem; font-weight: 600; }
+}
+.badge-lang {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  padding: 0.1rem 0.4rem;
+  border-radius: 0.25rem;
+  background: rgba(18, 35, 114, 0.1);
+  color: $itrn-navy;
+  vertical-align: middle;
+  margin-right: 0.35rem;
+}
+
+// ---------- Tables ----------
+table.table { font-size: 0.95rem; }
+table.table thead th { color: $itrn-navy; border-bottom: 2px solid $itrn-navy; font-weight: 600; }
+// Keep link cells (Video · Slides) on one line in seminar tables
+.panel-tabset table.table td:last-child { white-space: nowrap; }
+.panel-tabset table.table td:first-child { min-width: 9rem; }
+
+// ---------- Callouts ----------
+.callout .callout-title-container { font-weight: 650; color: $itrn-navy; }
+
+// ---------- Embeds ----------
+.embed-responsive {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  max-height: 640px;
+  iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 1px solid rgba(0, 0, 0, 0.12); border-radius: $card-radius; }
+}
+
+// ---------- Footer ----------
+.nav-footer { border-top: 1px solid rgba(0, 0, 0, 0.1); font-size: 0.9rem; }

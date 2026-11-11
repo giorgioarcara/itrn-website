@@ -1,18 +1,25 @@
+profile:
+  default: style-a
+
 project:
   type: website
   output-dir: _site
   render:
     - "**/*.qmd"
-  resources:
-    - CNAME
+  # Custom domain is off for now (site lives at giorgioarcara.github.io/itrn-website).
+  # When www.itrn.org DNS points to GitHub Pages: rename CNAME.disabled -> CNAME
+  # and uncomment the two lines below.
+  # resources:
+  #   - CNAME
 
 website:
   title: "ITRN"
   description: "The Italian Reproducibility Network (ITRN) is a peer-led consortium that promotes robust, transparent and reproducible research in Italy."
-  site-url: https://www.itrn.org
+  # Switch back to https://www.itrn.org when the custom domain is enabled
+  site-url: https://giorgioarcara.github.io/itrn-website
   favicon: images/favicon.png
   # Uncomment once the GitHub repository exists to get "Edit this page" / "Report an issue" links
-  # repo-url: https://github.com/<OWNER>/itrn-website
+  # repo-url: https://github.com/giorgioarcara/itrn-website
   # repo-actions: [edit, issue]
   search:
     location: navbar
@@ -114,9 +121,7 @@ website:
 
 format:
   html:
-    theme:
-      light: [cosmo, styles/itrn.scss]
-      dark: [darkly, styles/itrn.scss, styles/itrn-dark.scss]
+    # theme: set by the active profile (_quarto-style-*.yml)
     respect-user-color-scheme: true
     toc: true
     toc-location: right
